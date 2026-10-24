@@ -1,3 +1,5 @@
+# ELABORAOD POR
+Juan Villacis
 # EJERCICIOS CON FUNCIONES
 
 Programas en C++ que tienen ejercios con funciones con & y sin &.
